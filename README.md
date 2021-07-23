@@ -1,6 +1,15 @@
-## Your Name
+## Fiona Apps
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a long-time <a href="https://en.wikipedia.org/wiki/User:Panyd">Wikipedia administrator</a>, <a href="https://www.burnyourfeelings.com/">artist</a>, and online community manager with extensive knowledge about online extremism. I am in the process of learning to code to help in the fight against bad faith actors, and hope to one day be part of a team whose design principles include provisions to counter radicalization. 
+
+I would also love to join in on more Open Source projects. Copyleft is responsible for so many amazing leaps forward in tech, and although I have extensive experience creating articles and images, I have yet to contribute to code.
+
+**My Inspirations**
+
+* <a href = "https://www.gaijin.com/2015/04/designing-for-evil/">Designing for Evil</a>
+* <a hread = "https://www.goodreads.com/book/show/36742119-privacy-as-trust">Privacy as Trust</a>
+* <a href = "https://leanproductplaybook.com/">The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback</a>
+* <a href = "https://nyupress.org/9781479837243/algorithms-of-oppression/">Algorithms of Oppression: How Search Engines Reinforce Racism</a>
 
 ## Projects
 
@@ -11,20 +20,27 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**WikiTribune Ltd** (2017 -)  
+_Community Manager_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Involved in product planning & development with a small dev team.
+- QA testing
+- Front-end administration of a Wordpress site
+- Digital Marketing - Discord, Mailjet, Mailchimp, etc.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Prior Employment**  
 
-- Any experience relevent to software development
+I have been involved in IT administration for a long time. Prior work includes:
+- _Informatics Administrator - UKASH (2011-2012)_
+  - Responsible for QA testing payment systems and server administration
+- _IT Help Desk Manager - Sarah Lawrence (2009-2011)_
+  - Responsible for training new hires, documentation, and computer repair/maintenance
+- _Informatics Assistant - London Deanery (2007)_
+  - Responsible for server administration, database maintenance, and computer repairs/upkeep
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+Until today, the most relevant skill I have to programming has been 
 
 -STAR
 -What was the situation/task? (ST)
@@ -35,42 +51,35 @@ Consider skills relevent to software development. Then consider your best skills
 
 -What was the result?
 
+#### Laptop and Computer Repair
 
-#### This Skill
+Throughout my working life I have been a part of IT teams, helping to fix hardware and software issues. This has included writing documentation for new hires for training purposes but also to ensure best practices are followed throughout the department. My specialty has traditionally been laptops and office supplies (printers/projectors).
 
-- Experience
-- Achievements
-- Evidence (STAR)
+#### Software Experience/Proficiencies
+My experience with each of these is as a front-end user and Product Manager. Although I have yet to write any code linked to these platforms, I have a very good understanding of how they are implemented, what benefits they bring to a company, and what work is required to integrate them into a website.
 
-#### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+| User Data/Retention | Digital Marketing | Communication/Multimedia |
+| ------------------- | ----------------- | ------------------------ |
+| Matomo              | Mailchimp/Mailjet | Zendesk                  |
+| Google Analytics    | Buffer/Hootsuite  | OTRS                     |
+| MixPanel            | Dicord            | Photoshop                |
+                   
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (July 2021 - )
+I am currently in the pre-course at Makers Academy. Thus far we are focussing exclusively on Ruby and developing our skills as paired programmers.
 
-#### Your University / College (start_date to end_date)
+#### General Assembly - Digital Marketing (2019)
+Completed a part-time course at General Assembly. The course helped strengthen my skills in Google Analytics, and helped me understand the framework of programmatic advertising.
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Sarah Lawrence - 2009
+Studied Liberal Arts at Sarah Lawrence University. Study included:
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- Philosophy
+- Computer Science
+- Creative Writing
 
 ## Hobbies
 
