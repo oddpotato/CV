@@ -1,6 +1,6 @@
 ## Fiona Apps
 
-I am a long-time <a href="https://en.wikipedia.org/wiki/User:Panyd">Wikipedia administrator</a>, <a href="https://www.burnyourfeelings.com/">artist</a>, and online community manager with extensive knowledge about online extremism. I am in the process of learning to code to help in the fight against bad faith actors, and hope to one day be part of a team whose design principles include provisions to counter radicalization. 
+I am a long-time <a href="https://en.wikipedia.org/wiki/User:Panyd">Wikipedia administrator</a>, artist, and online community manager with extensive knowledge about online extremism. I am in the process of learning to code to help in the fight against bad faith actors, and hope to one day be part of a team whose design principles include provisions to counter radicalization. 
 
 I would also love to join in on more Open Source projects. Copyleft is responsible for so many amazing leaps forward in tech, and although I have extensive experience creating articles and images, I have yet to contribute to code.
 
@@ -10,13 +10,14 @@ I would also love to join in on more Open Source projects. Copyleft is responsib
 * <a href = "https://www.goodreads.com/book/show/36742119-privacy-as-trust">Privacy as Trust</a>
 * <a href = "https://leanproductplaybook.com/">The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback</a>
 * <a href = "https://nyupress.org/9781479837243/algorithms-of-oppression/">Algorithms of Oppression: How Search Engines Reinforce Racism</a>
-
+<!--------
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
+---->
 
 ## Work Experience
 
@@ -40,16 +41,9 @@ I have been involved in IT administration for a long time. Prior work includes:
 
 ## Skills
 
-Until today, the most relevant skill I have to programming has been 
+I have been involved in QA testing and bug reporting in multiple environments. As part of a small startup team, I have had the opportunity to design and test product features myself. I also have experience QA testing from Dev, to Production, and (unfortunately) Live. I understand the importance of attention to detail and providing thorough and clear explanations of problems.
 
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
+More importantly, QA testing has given me an appreciation for 'unknown unknowns', the best laid plans will be scuppered by users behaving in ways we can't predict. I believe this is of utmost importance throughout the planning and programming process.
 
 #### Laptop and Computer Repair
 
@@ -81,6 +75,8 @@ Studied Liberal Arts at Sarah Lawrence University. Study included:
 - Computer Science
 - Creative Writing
 
-## Hobbies
+## Hobbies & Projects
 
-Any cool stuff that makes you a super part of a software development team
+* <a href="https://www.yesthatfiona.com">YesThatFiona.com</a> - A blog where I catalogue important issues which have fed from the internet. It has mostly been focussed on QAnon, but also covers subjects like data manipulation and antivaxxers.
+* <a href="https://www.burnyourfeelings.com">Burn Your Feelings</a> - An ongoing art projects focused on releasing emotions
+* <a href="https://www.freeyourbones.com">Free Your Bones</a> - Exactly what it says on the tin
