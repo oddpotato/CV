@@ -7,7 +7,7 @@ I would also love to join in on more Open Source projects. Copyleft is responsib
 **My Inspirations**
 
 * <a href = "https://www.gaijin.com/2015/04/designing-for-evil/">Designing for Evil</a>
-* <a hread = "https://www.goodreads.com/book/show/36742119-privacy-as-trust">Privacy as Trust</a>
+* <a href = "https://www.goodreads.com/book/show/36742119-privacy-as-trust">Privacy as Trust</a>
 * <a href = "https://leanproductplaybook.com/">The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback</a>
 * <a href = "https://nyupress.org/9781479837243/algorithms-of-oppression/">Algorithms of Oppression: How Search Engines Reinforce Racism</a>
 
