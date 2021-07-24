@@ -43,7 +43,7 @@ I have been involved in IT administration for a long time. Prior work includes:
 
 I have been involved in QA testing and bug reporting in multiple environments. As part of a small startup team, I have had the opportunity to design and test product features myself. I also have experience QA testing from Dev, to Production, and (unfortunately) Live. I understand the importance of attention to detail and providing thorough and clear explanations of problems.
 
-More importantly, QA testing has given me an appreciation for 'unknown unknowns', the best laid plans will be scuppered by users behaving in ways we can't predict. I believe this is of utmost importance throughout the planning and programming process.
+More importantly, QA testing has given me an appreciation for 'unknown unknowns', the best laid plans will be scuppered by users behaving in ways we can't predict. I believe keeping this in mind is of utmost importance throughout the planning and programming process.
 
 #### Laptop and Computer Repair
 
@@ -57,7 +57,7 @@ My experience with each of these is as a front-end user and Product Manager. Alt
 | ------------------- | ----------------- | ------------------------ |
 | Matomo              | Mailchimp/Mailjet | Zendesk                  |
 | Google Analytics    | Buffer/Hootsuite  | OTRS                     |
-| MixPanel            | Dicord            | Photoshop                |
+| MixPanel            | Discord            | Photoshop                |
                    
 
 ## Education
